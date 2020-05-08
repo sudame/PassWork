@@ -1,0 +1,6 @@
+[book]
+authors = ["Mikihiro SUDA"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "PassWork"
